@@ -17,7 +17,8 @@ Obs³: Nós nos preocupamos com os tipos de mídias que vocês preferem estudar,
 2° - Git introdutório:  
 	Vídeo: https://www.youtube.com/watch?v=UMhskLXJuq4  
 	Texto: http://rogerdudler.github.io/git-guide/index.pt_BR.html  
-	Material complementar: https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1  
+	Material complementar: https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
+	Curso gratuito de git: https://www.codecademy.com/learn/learn-git
 	  
 3° - How internet works(Protocolos http):  
 	Vídeo: https://www.youtube.com/watch?v=HNQD0qJ0TC4  
