@@ -4,7 +4,7 @@ Olar pessoal, aqui está um material para que vocês possam estudar para o come�
   
 _Valor:_ Estes materiais irão ajudar vocês a acompanhar os conteúdos da Aceleradora e absorvê-los de forma mais eficiente.  
   
-Obs¹: Caso você que já conhece o conteúdo indicado na trilha e se sinta confiante com ele, pule para o próximo.    
+Obs¹: Caso você que já conheça o conteúdo indicado na trilha e se sinta confiante com ele, pule para o próximo.    
 Obs²: Os materiais complementares, são apenas para reforçar o conhecimento, sendo assim, não impedem que vocês passem para os próximos assuntos.    
 Obs³: Nós nos preocupamos com os tipos de mídias que vocês preferem estudar, então tentamos manter pelo menos um vídeo e um texto de cada material, logicamente, o estudo de ambos agregará mais ao conhecimento de vocês.    
 
