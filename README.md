@@ -52,6 +52,9 @@ __Obrigatório:__
 
 - [Vídeo: Introdução ao JavaScript](https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 - [Texto: Documentação MDN sobre JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+__Complementar:__
+- [Curso: Introdução ao JavaScript do Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
   
 ## 5° - Caso chegar aqui, nos avise via email!  
 
