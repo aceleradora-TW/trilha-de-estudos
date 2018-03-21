@@ -39,7 +39,9 @@ __Complementar:__
 - [Vídeo: Introdução ao Git](https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
 - [Curso: Trilha de Git do Code School](https://www.codeschool.com/courses/try-git)
 	  
-## 3° - How internet works(Protocolos http):  
+## 3° - Como a internet funciona (especialmente HTTP):  
+
+Esperamos que estes materiais lhe ajudem a ter uma visão geral sobre como a internet funciona, mais especificamente o que são protocolos e como/onde estes são empregados, especialmente o HTTP, o protocolo que estará mais evidente ao longo do desenvolvimento do projeto.
 
 __Obrigatório:__
 
