@@ -10,11 +10,16 @@ Obs³: Nós nos preocupamos com os tipos de mídias que vocês preferem estudar,
 
 ### 1° - Linux introdutório:  
 
-_Sugerimos que instale o Ubuntu 16.04 no seu computador ou use uma máquina virtual para esses estudos._  
+_Sugerimos que instale o Ubuntu 16.04 no seu computador ou use uma máquina virtual para esses estudos._
+
+__Obrigatório:__
 	
 - Vídeo: https://www.youtube.com/watch?v=I5SBrXX7mZI  
 - Texto: http://www.hardware.com.br/guias/programando-shell-script/comandos-prompt.html
-- Material complementar: https://drive.google.com/file/d/0Bz3ssKDMJp5NLWsyTV9JX0l1OFE/view  
+
+__Complementar:__
+
+- Comandos usados com maior frequência: https://drive.google.com/file/d/0Bz3ssKDMJp5NLWsyTV9JX0l1OFE/view  
 - Easy Shell, um manual direto e simplificado: http://lucasviola.github.io/easyshell/
 - Explain Shell, site que explica comandos shell detalhadamente: https://explainshell.com/
     
