@@ -47,7 +47,8 @@ __Complementar:__
 ## 4° - JavaScript:  
 
 - Vídeo: https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc  
-- Texto: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript  
+- Texto: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+- Curso gratuito de JavaScript: https://www.codecademy.com/learn/introduction-to-javascript   
   
 ## 5° - Caso chegar aqui, nos avise via email!  
 
