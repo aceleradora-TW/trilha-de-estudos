@@ -1,4 +1,4 @@
-# Trilha de Estudos Aceleradora Ágil ThoughtWorks**  
+# Trilha de Estudos Aceleradora Ágil ThoughtWorks  
   
 Olar pessoal, aqui está um material para que vocês possam estudar para o começo da Aceleradora, esperamos que façam bom uso.  
   
