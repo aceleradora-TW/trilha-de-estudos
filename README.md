@@ -9,7 +9,7 @@ Obs²: Os materiais complementares, são apenas para reforçar o conhecimento, s
 Obs³: Nós nos preocupamos com os tipos de mídias que vocês preferem estudar, então tentamos manter pelo menos um vídeo e um texto de cada material, logicamente, o estudo de ambos agregará mais ao conhecimento de vocês.    
 
 1° - Linux introdutório:  
-	_Sugerimos que instale o Ubuntu 16.04 no seu computador ou use uma máquina virtual para esses estudos._
+	_Sugerimos que instale o Ubuntu 16.04 no seu computador ou use uma máquina virtual para esses estudos._  
 	Vídeo: https://www.youtube.com/watch?v=I5SBrXX7mZI  
 	Texto: http://www.hardware.com.br/guias/programando-shell-script/comandos-prompt.html  
 	Material complementar: https://drive.google.com/file/d/0Bz3ssKDMJp5NLWsyTV9JX0l1OFE/view  
