@@ -30,6 +30,7 @@ __Complementar:__
 Esperamos que você entenda para que servem ferrametnas de controle de versão, sobretudo o Git, que utilizaremos na Aceleradora. Quais problemas ela resolvem e como utilizar o Git e seus comandos. Assim como no Linux, não esperamos que você se torne expert, apenas que se sinta mais familiarizada com os conceitos.
 
 - Vídeo: https://www.youtube.com/watch?v=UMhskLXJuq4  
+- Texto, o que é controle de versão: https://www.devmedia.com.br/sistemas-de-controle-de-versao/24574
 - Texto: http://rogerdudler.github.io/git-guide/index.pt_BR.html  
 - Material complementar: https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1  
 	  
