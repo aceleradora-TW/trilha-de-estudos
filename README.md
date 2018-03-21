@@ -12,8 +12,6 @@ Obs³: Nós nos preocupamos com os tipos de mídias que vocês preferem estudar,
 	_Sugerimos que instale o Ubuntu 16.04 no seu computador ou use uma máquina virtual para esses estudos._  
 	Vídeo: https://www.youtube.com/watch?v=I5SBrXX7mZI  
 	Texto: http://www.hardware.com.br/guias/programando-shell-script/comandos-prompt.html
-	Manual simplificado de comandos: http://lucasviola.github.io/easyshell/
-	Explicador de comandos: https://explainshell.com/
 	Material complementar: https://drive.google.com/file/d/0Bz3ssKDMJp5NLWsyTV9JX0l1OFE/view  
     
 2° - Git introdutório:  
