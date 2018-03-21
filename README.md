@@ -16,8 +16,8 @@ _Sugerimos que instale o Ubuntu 16.04 no seu computador ou use uma máquina virt
 
 __Obrigatório:__
 	
-- Vídeo: https://www.youtube.com/watch?v=I5SBrXX7mZI  
-- Texto: http://www.hardware.com.br/guias/programando-shell-script/comandos-prompt.html
+- [(Vídeo) Comandos básicos de Linux no Ubuntu](https://www.youtube.com/watch?v=I5SBrXX7mZI)
+- [(Texto) Comandos Linux](http://www.hardware.com.br/guias/programando-shell-script/comandos-prompt.html)
 
 __Complementar:__
 
