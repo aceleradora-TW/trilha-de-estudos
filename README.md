@@ -31,12 +31,12 @@ Esperamos que você entenda para que servem ferrametnas de controle de versão, 
 
 __Obrigatório:__
 
-- [Vídeo: Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
+- [Playlist: Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
 - [Texto: O que é controle de versão](https://www.devmedia.com.br/sistemas-de-controle-de-versao/24574)
 - [Texto: Introdução passo a passo](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 __Complementar:__
-- [Vídeo: Introdução ao Git](https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
+- [Playlist: Introdução ao Git](https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
 - [Curso: Trilha de Git do Code School](https://www.codeschool.com/courses/try-git)
 	  
 ## 3° - Como a internet funciona (especialmente HTTP):  
@@ -52,7 +52,7 @@ __Obrigatório:__
 
 __Obrigatório:__
 
-- [Vídeo: Introdução ao JavaScript](https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Playlist: Introdução ao JavaScript](https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 - [Texto: Documentação MDN sobre JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 __Complementar:__
