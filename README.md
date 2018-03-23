@@ -31,12 +31,12 @@ Esperamos que você entenda para que servem ferrametnas de controle de versão, 
 
 __Obrigatório:__
 
-- [Vídeo: Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
+- [Playlist: Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
 - [Texto: O que é controle de versão](https://www.devmedia.com.br/sistemas-de-controle-de-versao/24574)
 - [Texto: Introdução passo a passo](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 __Complementar:__
-- [Vídeo: Introdução ao Git](https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
+- [Playlist: Introdução ao Git](https://www.youtube.com/watch?v=C18qzn7j4SM&index=1&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
 - [Curso: Trilha de Git do Code School](https://www.codeschool.com/courses/try-git)
 	  
 ## 3° - Como a internet funciona (especialmente HTTP):  
@@ -45,14 +45,14 @@ Esperamos que estes materiais lhe ajudem a ter uma visão geral sobre como a int
 
 __Obrigatório:__
 
-- [Vídeo: Como a internet funciona](https://www.youtube.com/watch?v=HNQD0qJ0TC4)
+- [Playlist: Como a internet funciona](https://www.youtube.com/watch?v=HNQD0qJ0TC4)
 - [Texto: Afinal, o que é HTTP?](https://imasters.com.br/artigo/11513/redes-e-servidores/afinal-o-que-e-http?trace=1519021197&source=single)
   
 ## 4° - JavaScript:  
 
 __Obrigatório:__
 
-- [Vídeo: Introdução ao JavaScript](https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Playlist: Introdução ao JavaScript](https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 - [Texto: Documentação MDN sobre JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 __Complementar:__
