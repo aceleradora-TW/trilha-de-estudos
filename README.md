@@ -58,6 +58,12 @@ __Obrigatório:__
 __Complementar:__
 - [Curso: Introdução ao JavaScript do Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
   
-## 5° - Caso chegar aqui, nos avise via email!  
+## 5° - Como a internet funciona - nível 2:  
+
+__Obrigatório:__  
+
+- [What happens when... - ](https://github.com/alex/what-happens-when)  
+
+## 6° - Caso chegar aqui, nos avise via email!  
 
 
