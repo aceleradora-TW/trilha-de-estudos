@@ -64,6 +64,12 @@ __Obrigatório:__
 
 - [What happens when... - ](https://github.com/alex/what-happens-when)  
 
-## 6° - Caso chegar aqui, nos avise via email!  
+## 6° - Exercício JavaScript :  
+
+__Obrigatório:__  
+
+- [Exercite seu conhecimento adquirido nesta plataforma- ](https://edabit.com/explore)  
+
+## 7° - Caso chegar aqui, nos avise via email!  
 
 
