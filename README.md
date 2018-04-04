@@ -63,7 +63,13 @@ __Complementar:__
 __Obrigatório:__  
 
 - [What happens when... - ](https://github.com/alex/what-happens-when)  
+  
+## 6° - Exercícios JavaScript:     
 
-## 6° - Caso chegar aqui, nos avise via email!  
+__Obrigatório:__    
+
+- [Exercite o conhecimento que adquiriu até agora por esta plataforma](http://exercism.io/)    
+
+## 7° - Caso chegar aqui, nos avise via email!  
 
 
