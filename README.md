@@ -70,6 +70,12 @@ __Obrigatório:__
 
 - [Exercite seu conhecimento adquirido nesta plataforma- ](https://edabit.com/explore)  
 
-## 7° - Caso chegar aqui, nos avise via email!  
+## 7° - Como a internet funciona - nível 3:  
+
+__Obrigatório:__  
+
+- [Vídeo: What is HTTP?](https://www.youtube.com/watch?v=kGOpY2J31pI&feature=youtu.be)  
+
+## 8° - Caso chegar aqui, nos avise via email!  
 
 
